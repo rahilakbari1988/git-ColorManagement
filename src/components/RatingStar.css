@@ -1,0 +1,14 @@
+.ratingStart{
+    font-size: 25px;
+    display: inline-flex;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+input[type="radio"]{
+    display: none;
+}
+
+span{
+    cursor: pointer;
+}

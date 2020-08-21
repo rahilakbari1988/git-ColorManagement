@@ -1,0 +1,11 @@
+.btn{
+    border:0.5px solid rgba(41, 38, 38, 0.521);
+    border-radius: 10px;
+    outline: none;
+    padding: 1em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgba(7, 2, 39, 0.836);
+    color: white;
+    font-weight: bold;
+    margin-left: 10px;
+}
